@@ -6,9 +6,7 @@ function App() {
   
   return (
      <main className="app transition-all ease-in">
-      <Home />
-      <Canvas />
-      <Customizer />
+      <h1 className="head-text">Threejs App</h1>
      </main>
   )
 }
